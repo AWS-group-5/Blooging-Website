@@ -1,4 +1,4 @@
-## Blooging-Website
+## Blogging-Website
 # This is a repository for AWS Blogging Website 
 
 Welcome!
